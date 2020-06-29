@@ -1,3 +1,14 @@
+/*
+* 字符串最后一个单词长度
+*
+* 测试用例：
+*
+* 输入：
+*	hello world
+* 输出：
+*	5
+*
+ */
 package main
 
 import (
