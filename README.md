@@ -13,6 +13,7 @@
 		整数N，最后一个单词的长度。
 
 [C](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ1.c)
+[go](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ1.go)
 
 ## 计算字符个数
 	题目描述
