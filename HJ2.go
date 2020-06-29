@@ -34,6 +34,6 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Println(strings.Count(str, string(sig)))
+	fmt.Println(strings.Count(str, strings.ToLower(string(sig))))
 }
 
