@@ -6,6 +6,7 @@
 ## HJ1 字符串最后一个单词长度
 	题目描述
 		计算字符串最后一个单词的长度，单词以空格隔开。
+		
 	输入描述:
 		一行字符串，非空，长度小于5000。
 
@@ -32,7 +33,21 @@
 
 	输入描述:
 		输入多行，先输入随机整数的个数，再输入相应个数的整数
+		
 	输出描述:
 		返回多行，处理后的结果
 		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ3.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ3.go)
+
+## HJ4 字符串分割
+	题目描述
+		•连续输入字符串，请按长度为8拆分每个字符串后输出到新的字符串数组；
+		•长度不是8整数倍的字符串请在后面补数字0，空字符串不处理。
+		
+	输入描述:
+		连续输入字符串(输入2次,每个字符串长度小于100)
+
+	输出描述:
+		输出到长度为8的新字符串数组
+		
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ4.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ4.go)
