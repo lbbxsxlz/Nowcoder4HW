@@ -62,5 +62,5 @@
 
 	输出描述:
 		输出该数值的十进制字符串。
-
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ5.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ5.go)
 
