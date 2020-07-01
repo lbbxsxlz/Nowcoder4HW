@@ -1,14 +1,14 @@
 /*
-* ×Ö·û´®×îºóÒ»¸öµ¥´Ê³¤¶È
-*
-* ²âÊÔÓÃÀý£º
-*
-* ÊäÈë£º
-*	hello world
-* Êä³ö£º
-*	5
-*
-*/
+ * å­—ç¬¦ä¸²æœ€åŽä¸€ä¸ªå•è¯é•¿åº¦
+ *
+ * æµ‹è¯•ç”¨ä¾‹ï¼š
+ *
+ * è¾“å…¥ï¼š
+ *	hello world
+ * è¾“å‡ºï¼š
+ *	5
+ *
+ */
 
 #include <stdlib.h>
 #include <stdio.h>
