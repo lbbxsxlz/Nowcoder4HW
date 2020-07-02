@@ -62,5 +62,17 @@
 
 	输出描述:
 		输出该数值的十进制字符串。
+		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ5.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ5.go)
 
+# HJ6 质数因子
+	题目描述
+		功能:输入一个正整数，按照从小到大的顺序输出它的所有质因子（重复的也要列举）（如180的质因子为2 2 3 3 5 ）
+		最后一个数后面也要有空格
+
+	输入描述:
+		输入一个long型整数
+
+	输出描述:
+		按照从小到大的顺序输出它的所有质数的因子，以空格隔开。最后一个数后面也要有空格。
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ6.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ6.go)
