@@ -101,14 +101,3 @@
 		输出合并后的键值对（多行）
 		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ8.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ8.go)
-
-## HJ9 提取不重复的整数
-	题目描述
-		输入一个int型整数，按照从右向左的阅读顺序，返回一个不含重复数字的新的整数。
-
-	输入描述:
-		输入一个int型整数
-
-	输出描述:
-	按照从右向左的阅读顺序，返回一个不含重复数字的新的整数
-
