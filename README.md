@@ -75,6 +75,7 @@
 
 	输出描述:
 		按照从小到大的顺序输出它的所有质数的因子，以空格隔开。最后一个数后面也要有空格。
+		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ6.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ6.go)
 
 ## HJ7 取近似值
@@ -86,6 +87,7 @@
 
 	输出描述:
 		输出该数值的近似整数值
+		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ7.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ7.go)
 
 ## HJ8 合并表记录
@@ -98,4 +100,16 @@
 
 	输出描述:
 		输出合并后的键值对（多行）
+		
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ8.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ8.go)
+
+## HJ9 提取不重复的整数
+	题目描述
+		输入一个int型整数，按照从右向左的阅读顺序，返回一个不含重复数字的新的整数。
+
+	输入描述:
+		输入一个int型整数
+
+	输出描述:
+	按照从右向左的阅读顺序，返回一个不含重复数字的新的整数
+
