@@ -11,7 +11,7 @@
 int main()
 {
     int input, i;
-    int tmp[16] = {0};
+    int tmp[10] = {0};
     scanf("%d", &input);
 
     while (input) {
