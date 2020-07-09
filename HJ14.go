@@ -28,12 +28,12 @@ func main() {
     var num int
     var str string
 	
-	s := make([]string,0)
+	s := make([]string, 0)
 	
-    fmt.Scanf("%d",&num)
+    fmt.Scanf("%d", &num)
     for i := 0; i < num; i++ {
-        fmt.Scanf("%s",&str)
-        s = append(s,str)
+        fmt.Scanf("%s", &str);
+        s = append(s, str)
     }
  
     sort.Strings(s)
