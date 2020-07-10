@@ -169,3 +169,15 @@
 	输出描述:
 		数据输出n行，输出结果为按照字典序排列的字符串。
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ14.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ14.go)
+
+## HJ15 int型正整数在内存中存储时1的个数
+	题目描述
+		输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数。
+
+	输入描述:
+ 		输入一个整数（int类型）
+
+	输出描述:
+ 		这个数转换成2进制后，输出1的个数
+
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ15.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ15.go)
