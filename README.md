@@ -193,4 +193,4 @@
 
 	输出描述：输出文件只有一个正整数，为不超过总钱数的物品的价格与重要度乘积的总和的最大值（ <200000 ）。
 
-[Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ16.go)
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ16.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ16.go)
