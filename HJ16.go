@@ -14,7 +14,7 @@
 package main
 
 import (
-	"fmt"i
+	"fmt"
 )
 
 func Max(a, b int) int {
