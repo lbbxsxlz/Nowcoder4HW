@@ -188,9 +188,23 @@
 ## HJ16 购物单
 	题目描述：	
 		设计一个满足要求的购物单
+
 	输入描述：
 		输入的第 1 行，为两个正整数，用一个空格隔开：N m，（其中 N （ <32000 ）表示总钱数， m （ <60 ）为希望购买物品的个数。）从第 2 行到第 m+1 行，第 j 行给出了编号为 j-1 的物品的基本数据，每行有 3 个非负整数 v p q，（其中 v 表示该物品的价格（ v<10000 ）， p 表示该物品的重要度（ 1 ~ 5 ）， q 表示该物品是主件还是附件。如果 q=0 ，表示该物品为主件，如果 q>0 ，表示该物品为附件， q 是所属主件的编号）
 
 	输出描述：输出文件只有一个正整数，为不超过总钱数的物品的价格与重要度乘积的总和的最大值（ <200000 ）。
 
 [C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ16.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ16.go)
+
+## HJ17 坐标移动
+	题目描述：
+		开发一个坐标计算工具， A表示向左移动，D表示向右移动，W表示向上移动，S表示向下移动。从（0,0）点开始移动，从输入字符串里面读取一些坐标，并将最终输入结果输出到输出文件里面。
+
+	输入描述：
+		输入坐标字符串，合法坐标为A(或者D或者W或者S) + 数字（两位以内），坐标之间;分隔。非法坐标点需要进行丢弃。
+	
+	输出描述：
+		输出坐标移动后的结果
+
+[C-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ17.c)    [Golang-code](https://github.com/lbbxsxlz/Nowcoder4HW/blob/master/HJ17.go)
+	
